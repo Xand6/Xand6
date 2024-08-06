@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming languages
 - 🌱 I’m currently learning C, Python
 - 💞️ I’m looking to collaborate on development new projects
-- 📫 How to reach me ...
+- 📫 How to reach me: alexandrehonoratosabino@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
